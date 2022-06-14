@@ -1,0 +1,6 @@
+cpg_utils
+Flask
+keras
+numpy
+Pillow
+setuptools
