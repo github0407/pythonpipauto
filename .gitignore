@@ -1,0 +1,10 @@
+*/__pycache__/*
+*.pyc
+*.so
+*.txt
+*.vscode
+*.wav
+*.mp3
+*.out
+*.py.bak
+!requirements.txt
